@@ -7,7 +7,7 @@ computer systems to observe its environment and perform driving tasks. AI enable
 the vehicle to identify objects, understand road conditions, predict the movement of
 other vehicles and pedestrians, and select suitable driving actions.
 
-#WORKING PRINCIPLE
+# WORKING PRINCIPLE
 The basic working process is:
 Sensors & Cameras → Perception → Object Detection → Decision Making → Path
 Planning → Vehicle Control
