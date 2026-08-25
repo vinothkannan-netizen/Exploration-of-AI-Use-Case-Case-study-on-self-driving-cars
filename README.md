@@ -24,44 +24,53 @@ or changing lanes.
 7. Control – Controls steering, braking, and acceleration.
 8. Continuous Monitoring – Continuously observes the environment and updates
 decisions.
-# SAMPLE IMAGE – AI-ENABLED SMART SPEAKER
-<img width="539" height="189" alt="2026-08-25_10-48-28" src="https://github.com/user-attachments/assets/eef3b9a8-9703-4103-8675-b2a092c3a85a" />
-<img width="539" height="706" alt="image" src="https://github.com/user-attachments/assets/51033b7f-c6a8-4252-8cd3-84f1c0967a71" />
+# SAMPLE IMAGE – SELF-DRIVING CAR
+<img width="533" height="217" alt="image" src="https://github.com/user-attachments/assets/95857b08-a04a-4505-9e58-c4cc6665fa18" />
+<img width="556" height="699" alt="image" src="https://github.com/user-attachments/assets/da9ac6c8-2eaa-4109-8216-4975a9c8aaee" />
 
-# AI-ENABLED SMART SPEAKERS
+# AI TECHNOLOGIES USED
 
-Examples:
+1. Machine Learning (ML) – Learns driving patterns from large amounts of data. 
+2. Deep Learning (DL) – Recognizes objects, roads, traffic signs, and pedestrians.
+3. Computer Vision – Understands images and video captured by cameras.
+4. Natural Language Processing (NLP) – Supports voice-based interaction with
+passengers.
+5. Sensor Fusion – Combines information from cameras, LiDAR, radar, and
+other sensors.
+6. Reinforcement Learning – Helps improve decision-making through learning
+from actions and outcomes.
+7. Path Planning Algorithms – Determines safe and efficient driving paths.
 
-1. Amazon Echo – Alexa.
-2. Google Nest – Google Assistant.
-3. Apple HomePod – Siri.
-4. Samsung SmartThings-compatible speakers.
+# CHARACTERISTICS
 
- # CHARACTERISTICS OF AI-ENABLED SMART SPEAKERS
-1. Voice Interaction :Communicates with users through voice commands.
-2. Speech Recognition :Converts spoken words into text.
-3. Natural Language Understanding :Understands the meaning of user commands.
-4. Personalization :Learns user preferences and usage patterns.
-5. Context Awareness :Uses previous conversation context to provide better
-responses.
-6. Smart Home Control: Controls lights, fans, TVs, and other connected devices.
-7. Information Retrieval :Provides weather, news, facts, and other information.
-8. Automation: Performs tasks such as setting alarms, reminders, timers, and
-schedules.
-9. Multilingual Support : Understands and responds in multiple languages.
-10. Continuous Learning :AI models improve their performance using data and
-user feedback.
+1. Autonomous Driving :Performs driving tasks with minimal human
+intervention.
+2. Object Detection : Detects vehicles, pedestrians, cyclists, and obstacles.
+3. Lane Detection :Identifies road lanes and lane boundaries.
+4. Traffic Sign Recognition :Recognizes traffic signs and signals.
+5. Obstacle Avoidance: Detects obstacles and takes appropriate action.
+6. Automatic Braking :Applies brakes when a collision risk is detected.
+7. Path Planning:Selects a suitable and safe route.
+8. Real-Time Decision Making:Makes driving decisions based on current
+conditions.
+9. Navigation :Uses GPS and digital maps to reach the destination.
+10. Driver Assistance : Provides features such as adaptive cruise control and lane
+keeping.
 
 # RELATED AI TOOLS / TECHNOLOGIES
-1. Machine Learning (ML) :Learns patterns from user interactions.
-2. Deep Learning (DL) :Used for speech and language understanding.
-3. Natural Language Processing (NLP): Understands human language.
-4. Automatic Speech Recognition (ASR) :Converts speech into text.
-5. Natural Language Understanding (NLU) :Identifies the meaning and intent of
- commands.
-6. Text-to-Speech (TTS) :Converts generated text into natural-sounding speech.
-7. Generative AI: Can generate more natural and context-aware responses.
-8. Cloud AI Services:Provide large-scale speech, language and knowledgeprocessing capabilities. 
+
+1. Machine Learning (ML) :Learns driving patterns from collected data.
+2. Deep Learning (DL) :Helps recognize objects, roads, vehicles, and pedestrians.
+3. Computer Vision : Analyzes camera images and identifies road conditions.
+4. LiDAR Processing: Creates a 3D representation of the surrounding
+environment.
+5. Sensor Fusion |: Combines information from cameras, LiDAR, radar, and
+other sensors.
+6. Reinforcement Learning : Helps the vehicle learn and improve driving
+decisions.
+7. Path Planning : Determines a safe and efficient route for the vehicle.
+8. Predictive Models : Predicts the movement of nearby vehicles, pedestrians,
+and cyclists.
 
 # RESULT
 Self-driving cars are an important real-world application of AI. They combine
